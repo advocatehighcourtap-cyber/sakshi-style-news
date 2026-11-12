@@ -1,48 +1,48 @@
-# సాక్షి స్టైల్ న్యూస్ | Sakshi Style News Portal
+# జనతా కి తఖ్త్ న్యూస్ | Janata Ki Takhat News
 
-A clean, modern **Telugu news website** inspired by the layout and design patterns of [sakshi.com](https://www.sakshi.com/).
+A modern **Telugu news portal** inspired by Sakshi.com layout, now branded as **Janata Ki Takhat News**.
 
-Built as a **static site** ready for GitHub Pages.
-
-## Features
-
-- Responsive design (mobile + desktop)
-- Red news-theme color scheme
-- Breaking news ticker
-- Featured story + side stories
-- Latest news list
-- Category sections (ఆంధ్రప్రదేశ్, తెలంగాణ, సినిమా)
-- Trending sidebar + Video section
-- Sticky header with mobile menu
-- Telugu + English support
-
-## Live Demo
-
-Once GitHub Pages is enabled, the site will be available at:
+## Live Site
 
 **https://advocatehighcourtap-cyber.github.io/sakshi-style-news/**
 
-## How to enable GitHub Pages
+(Enable GitHub Pages if not already done — see below)
 
-1. Go to the repository → **Settings** → **Pages**
-2. Under **Source**, select **Deploy from a branch**
-3. Choose branch: `main` and folder: `/ (root)`
-4. Click **Save**
+## Pages
 
-The site will be live in 1–2 minutes.
+| Page | File |
+|------|------|
+| Home | `index.html` |
+| ఆంధ్రప్రదేశ్ | `andhra-pradesh.html` |
+| తెలంగాణ | `telangana.html` |
+| జాతీయం | `national.html` |
+| సినిమా | `cinema.html` |
+| క్రీడలు | `sports.html` |
 
-## Tech Stack
+## Features
 
-- Pure HTML, CSS & JavaScript
-- Google Fonts (Noto Sans Telugu + Inter)
-- No frameworks / build tools required
+- Custom logo (JK + crown mark)
+- Red + gold news theme
+- Breaking news ticker
+- Featured story layout (Sakshi-style)
+- Category pages with district/section sidebars
+- Trending, Video, Web Stories widgets
+- Fully responsive (mobile + desktop)
+- Sticky header + mobile menu
+- Telugu typography (Noto Sans Telugu)
 
-## Disclaimer
+## Enable GitHub Pages
 
-This is a **demo / educational project**.  
-It is **not affiliated** with Sakshi Media Group or sakshi.com.  
-All sample news content is placeholder text.
+1. Repo → **Settings** → **Pages**
+2. Source: **Deploy from a branch**
+3. Branch: `main` / folder: `/ (root)`
+4. Save → site goes live in 1–2 minutes
+
+## Tech
+
+Pure HTML, CSS, JavaScript — no build step required.
 
 ---
 
-Made with ❤️ for Telugu readers
+**Janata Ki Takhat News** — ప్రజల వాణి  
+Demo project • Not affiliated with any real news organisation
